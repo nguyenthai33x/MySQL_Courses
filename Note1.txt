@@ -1,0 +1,3 @@
+Mỗi sinh viên ghi danh (enroll) vào một khóa học thì kết quả cuối cùng là một điểm số (grade) cho chính lượt ghi danh đó.
+
+Điều này thể hiện rằng grade gắn liền 1-1 với enrollment — tức là không thể có grade nếu không có enroll, và mỗi lần enroll chỉ có 1 grade.
